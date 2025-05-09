@@ -1,0 +1,22 @@
+{
+	"folders": [
+	  {
+		"path": "."
+	  }
+	],
+	"settings": {
+	  "files.autoSave": "afterDelay",
+	  "C_Cpp.default.compilerPath": "/opt/homebrew/bin/g++-14",
+	  "C_Cpp.default.includePath": [
+		"${default}",
+		"${workspaceFolder}/**",
+		"//opt/homebrew/opt/sdl2/include",
+	  ],
+	  "C_Cpp.default.cppStandard": "c++17",
+	  "C_Cpp.default.intelliSenseMode": "macos-gcc-arm64",
+	"C_Cpp.default.defines": [],
+	"files.associations": {
+		"omp.h": "c"
+	}
+	}
+  }
