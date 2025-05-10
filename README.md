@@ -20,8 +20,8 @@ This program can process text files in both serial and parallel modes, counting 
 The improvements seen are around 2x faster for parallel on my 8 core machine.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="Images/WordCount_Parallel.png" width="45%" alt="WordCount Parallel">
-    <img src="Images/WordCount_Serial.png" width="45%" alt="WordCount Serial">
+    <img src="Images/WordCount_Parallel.png" width="300" height="200" alt="WordCount Parallel">
+    <img src="Images/WordCount_Serial.png" width="300" height="200" alt="WordCount Serial">
 </div>
 
 ### Usage
